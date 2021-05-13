@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="sunny_day">Sunny\nDay\nWalk</string>
+    <string name="weather">Weather</string>
+    <string name="degree">"37"+ "\u2103"</string>
+</resources>
